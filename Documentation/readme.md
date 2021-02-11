@@ -1,4 +1,4 @@
-# <center>MVVM pattern</center>
+# MVVM pattern
 ## Prerequisites
 ### NuGet dependencies: 
 - Install for the ViewModels project: `Microsoft.Extensions.DependencyInjection`, `NLog`  
