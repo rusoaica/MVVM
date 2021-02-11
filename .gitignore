@@ -1,0 +1,7 @@
+Bin/*
+Dependencies/*
+Code/.vs/*
+Code/MVVM.Models/obj/*
+Code/MVVM.ViewModels/obj/*
+Code/MVVM.Views/obj/*
+.git/*
